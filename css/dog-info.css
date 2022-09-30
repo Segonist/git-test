@@ -2,6 +2,7 @@
     position: relative;
     z-index: 0;
 }
+<<<<<<< HEAD
 .dog-info__button:hover + .dog-info__ball {
     transform: rotate(270deg);
     top: -60px;
@@ -11,3 +12,5 @@
 .dog-info_h {
     z-index: 1;
 }
+=======
+>>>>>>> uuh
